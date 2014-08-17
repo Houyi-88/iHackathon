@@ -3,7 +3,9 @@ iHackathon
 
 iHackathon mobile game
 
-Game is 'Work Hard'
+Game is 'Work Hard' 
+
+Play online at : https://sites.google.com/site/gameoffuns/home/playworkhard
 
 Developed using Unity 4.2.2, mostly c# and some java on Windows PC/Laptop using Windows 7/8.
 
@@ -23,4 +25,4 @@ iHackathon @InnoSpring Santa Clara, CA 8-8-2014.
 	2) click 'OK' to download Unity web player plug-in for 	your browser
 	3) click 'OK' to 'allow blocked content'
 
-
+Play online at https://sites.google.com/site/gameoffuns/home/playworkhard
